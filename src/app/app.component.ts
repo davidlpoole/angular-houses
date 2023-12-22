@@ -16,7 +16,7 @@ import { HomeComponent } from './home/home.component'
         />
       </header>
       <section class="content">
-        <app-home></app-home>
+        <app-home />
       </section>
     </main>
   `,
